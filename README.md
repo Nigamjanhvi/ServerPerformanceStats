@@ -9,6 +9,12 @@ A tiny DevOps helper to print server performance stats.
 
 GitHub repository: https://github.com/Nigamjanhvi/ServerPerformanceStats
 
+## Project Brief / Reference
+
+This project follows the Server Stats challenge from roadmap.sh:
+
+https://roadmap.sh/projects/server-stats
+
 ## Features
 
 - CPU usage

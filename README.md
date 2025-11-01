@@ -5,6 +5,10 @@ A tiny DevOps helper to print server performance stats.
 - Linux/macOS: `scripts/server_performance.sh`
 - Windows (PowerShell): `scripts/server_performance.ps1`
 
+## Project URL
+
+GitHub repository: https://github.com/Nigamjanhvi/ServerPerformanceStats
+
 ## Features
 
 - CPU usage
